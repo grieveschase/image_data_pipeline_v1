@@ -1,0 +1,11 @@
+
+
+pixel_size_micron : 3.33  ## Rough approximation
+
+image_height : 512
+image_width : 512
+
+HSV_Bounds:
+  Lower: {Hue: 120, Saturation: 50, Value: 50}
+  Upper: {Hue: 150, Saturation: 255, Value: 150}
+  
